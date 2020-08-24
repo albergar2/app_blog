@@ -3,7 +3,7 @@ from src.models.blog import Blog
 from src.models.post import Post
 from src.models.user import User
 
-__author__ = 'albergar2'
+__author__ = 'jslvtr'
 
 
 from flask import Flask, render_template, request, session, make_response
